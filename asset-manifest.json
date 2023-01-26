@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/greddiit/static/css/main.565947c7.css",
-    "main.js": "/greddiit/static/js/main.ee62c005.js",
+    "main.js": "/greddiit/static/js/main.26b7c9cb.js",
     "index.html": "/greddiit/index.html",
     "main.565947c7.css.map": "/greddiit/static/css/main.565947c7.css.map",
-    "main.ee62c005.js.map": "/greddiit/static/js/main.ee62c005.js.map"
+    "main.26b7c9cb.js.map": "/greddiit/static/js/main.26b7c9cb.js.map"
   },
   "entrypoints": [
     "static/css/main.565947c7.css",
-    "static/js/main.ee62c005.js"
+    "static/js/main.26b7c9cb.js"
   ]
 }
